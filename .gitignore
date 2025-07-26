@@ -9,6 +9,9 @@ doc-classifier-ui/build/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Model Files
+best_model.pt
+
 # Environment variables (good practice)
 .env
 .env.local
