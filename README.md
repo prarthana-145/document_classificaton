@@ -88,21 +88,7 @@ cd your-repository-name
 
 ---
 
-## 🚀 Getting Started
 
-Follow these instructions to get the project up and running on your local machine.
-
-### Prerequisites
-
-Make sure you have the following installed:
-* Python (3.8+)
-* Node.js and npm
-
-### ⚠️ Important: Download the Model File
-
-The trained model file (`best_model.pt`) is not included in this repository due to its size. You need to download it separately and place it in the root directory of the project. The application will not run without it.
-
-**[➡️ Download the `best_model.pt` file from here](LINK_TO_YOUR_MODEL_FILE)**
 
 
 ### Installation & Setup
