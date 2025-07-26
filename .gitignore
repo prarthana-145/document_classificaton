@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Node.js dependencies
+doc-classifier-ui/node_modules/
+doc-classifier-ui/build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables (good practice)
+.env
+.env.local
+
+# VSCode editor folder
+.vscode/
+
+# macOS system file
+.DS_Store
